@@ -6,9 +6,9 @@
 ## Badge
 My most recent badge:
 
-<a href="https://www.codewars.com/users/leo-cavalcante/badges/large"><div style="text-align:center"><img src="https://www.codewars.com/users/leo-cavalcante/badges/large" alt="Profile Stats" align="center"/></div></a>
+<a href="https://www.codewars.com/users/leo-cavalcante/"><div style="text-align:center"><img src="https://www.codewars.com/users/leo-cavalcante/badges/large" alt="Profile Stats" align="center"/></div></a>
 
-*PS.: you may click on the photo to consult my most recent Badge.*
+*PS.: you may click on the photo to consult my profile with my most recent Badge and Stats.*
 
 ## Content
 - [Badge](#badge)
